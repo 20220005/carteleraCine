@@ -7,7 +7,7 @@ const app = express();
 // ====================================================================================
 // Conexión a la base de datos
 // ====================================================================================
-const url ="mongodb+srv://mr:ivGFHW8DsBb5FguL@proyectofinal.dpfgjhe.mongodb.net/proyectoFinal";
+const url ="URL de la base de datos";
 
 // ====================================================================================
 // Modelos y Esquemas de la base de datos
